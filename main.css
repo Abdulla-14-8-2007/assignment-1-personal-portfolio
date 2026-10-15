@@ -1,0 +1,269 @@
+ body{
+
+background-color: #f4f7fa;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+
+
+ }
+    
+ 
+ .header{
+  margin:20px 120px;
+    background-color: #0b4d82;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 25px;
+    border-radius: 20px;
+
+
+}
+.jop{
+    
+    
+    color: lightblue;
+}
+.showlinks{
+    
+   padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+    border-radius: 20px;
+}
+.links{
+    background-color: rgba(255, 255, 255, 0.15);
+    margin: 0px 5px;
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    text-decoration: none;
+    color: white;
+    border-radius: 20px;
+    font-size: 16px;
+    padding: 10px 20px;
+
+}
+
+
+
+.About{
+    background-color: white;
+border-radius: 20px;
+padding: 30px;
+ border-radius: 20px;
+  margin: 20px 120px;
+  height: 250px;
+
+}
+
+
+.aboutme{
+    color: #0b4d82;
+    background-color: white;
+    margin: 0 0 20px 0;
+    border-bottom: 3px solid #d0e4f7;
+    padding-bottom: 8px;
+}
+
+
+
+.profile-img{
+
+width: 140px;
+    height: 140px;
+    border-radius: 50%;
+   float: left;
+   margin-left: 20px;
+   margin-right: 25px;
+}
+
+.description p{
+    font-size: 18px;
+    
+    color: #333;
+    
+}
+.description p span{
+    color:#0b4d82;
+    font-size : 20px;
+}
+
+.clear{
+    clear: both;
+}
+
+
+.github-link{
+
+
+    background-color:blue;
+    color: white;
+    margin: 30px;
+    padding: 10px 20px;
+    border-radius: 10px;
+
+}
+
+.skills{
+     color: #0b4d82;
+    background-color: white;
+    margin: 0 0 20px 0;
+    border-bottom: 3px solid #d0e4f7;
+    padding-bottom: 8px;
+}
+
+.parent{
+       background-color: white;
+border-radius: 20px;
+padding: 30px;
+ border-radius: 20px;
+  margin: 20px 120px;
+
+}
+
+.parent h3 {
+    color: #0b4d82;
+    font-size: 14px;
+}
+
+.parent p {
+    font-size: 12px;
+    
+}
+
+
+
+.html5{
+
+background-color: #f0f8ff;
+ float: left;
+width: 20%;
+text-align: left;
+ margin: 5px;
+    padding: 15px 10px;
+    border-radius: 12px;
+}
+
+.css3{
+    background-color: #f0f8ff;
+  float: left;
+width: 20%;
+text-align: left;
+ margin: 5px;
+    padding: 15px 10px;
+    border-radius: 12px;
+}
+
+.javascript{
+    background-color: #f0f8ff;
+     float: left;
+width: 20%;
+text-align: left;
+ margin: 5px;
+    padding: 15px 10px;
+    border-radius: 12px;
+}
+
+.react{
+    background-color: #f0f8ff;
+    float: left;
+width: 20%;
+text-align: left;
+ margin: 5px;
+    padding: 15px 10px;
+    border-radius: 12px;
+}
+
+
+.clear {
+    clear: both;
+}
+
+.Experience{
+    color: #0b4d82;
+    background-color: white;
+    margin: 0 0 20px 0;
+    border-bottom: 3px solid #d0e4f7;
+    padding-bottom: 8px;
+    border-radius: 5px;
+    padding: left 10px;
+   
+}
+
+
+.parent{
+height: 250px
+
+}
+
+.experience-img{
+
+width: 140px;
+    height: 140px;
+    border-radius: 50%;
+   float: left;
+   margin-left: 20px;
+   margin-right: 25px;
+  background-color: white ;
+
+border-radius:  5px;
+}
+
+.grand{
+background-color: white;
+
+ margin: 20px 120px;
+border-radius:  20px;
+}
+
+.child1 {
+    background-color: #F8F9FA;
+    border-left: 5px solid #0b4d82;
+    padding: 20px;
+    border-radius: 8px;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+
+
+.bluefont {
+    color: #0b4d82;
+    font-size: 20px;
+}
+.child1{
+    background-color: #F8F9FA;
+    border-left: 5px solid #0b4d82;
+    padding: 20px;
+    border-radius: 8px;
+    
+    margin: 20px;
+}
+.header {
+    margin: 20px 120px;
+    background-color: #0b4d82;
+    color: white;
+    text-align: left;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+.header h2 {
+    margin: 0 0 15px 0;
+    padding-bottom: 8px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.footer {
+    background-color: #073052;
+    color: white;
+    text-align: center;
+    margin: 20px 120px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.footer p {
+    margin: 0;
+    font-size: 14px;
+}
